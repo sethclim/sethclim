@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 👋 my name is Seth Climenhaga!
 
+🔭 I’m currently working
+- A raytracer in Vulkan & C++
+- A app for musicians in React Native and Skia
+
+📫 Connect with me
+- [linkedin/sethclim](https://www.linkedin.com/in/sethclim/)
 <!--
 **sethclim/sethclim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
