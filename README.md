@@ -3,6 +3,7 @@
 🔭 I’m currently working
 - A raytracer in Vulkan & C++
 - A app for musicians in React Native and Skia
+- A SideChain VST in JUCE and C++
 
 📫 Connect with me
 - [linkedin/sethclim](https://www.linkedin.com/in/sethclim/)
