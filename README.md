@@ -5,7 +5,7 @@
 - A app for musicians in React Native and Skia
 - A SideChain VST in JUCE and C++
 
-🔍 I’m currently looking for backend or mobile jobs
+🔍 I’m currently looking for backend or mobile roles
 
 📫 Connect with me [linkedin/sethclim](https://www.linkedin.com/in/sethclim/)
 <!--
