@@ -1,10 +1,10 @@
 ## Hi there 👋 my name is Seth Climenhaga!
 
 🔭 I’m currently working on
-- a AI game texture generation platform
-- A raytracer in Vulkan & C++
-- A app for musicians in React Native and Skia
-- A SideChain VST in JUCE and C++
+- Texura -> an AI game texture generation platform
+- Quanta Raytracing Engine -> a raytracer in Vulkan & C++
+- Scales App -> a app for musicians in React Native and Skia
+- SideChain -> a VST sidechain plugin in JUCE and C++
 
 🔍 I’m currently looking for backend or mobile roles
 
