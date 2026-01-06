@@ -1,6 +1,7 @@
 ## Hi there 👋 my name is Seth Climenhaga!
 
 🔭 I’m currently working on
+- Typely -> a composable resume builder
 - Texura -> an AI game texture generation platform
 - Quanta Raytracing Engine -> a raytracer in Vulkan & C++
 - Scales App -> a app for musicians in React Native and Skia
