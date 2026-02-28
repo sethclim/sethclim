@@ -3,6 +3,7 @@
 🔭 I’m currently working on
 - Typely -> a composable resume builder
 - Texura -> an AI game texture generation platform
+- MeshEngine -> A meshing engine and visualization tool (C++ with py bindings)
 - Quanta Raytracing Engine -> a raytracer in Vulkan & C++
 - Scales App -> a app for musicians in React Native and Skia
 - SideChain -> a VST sidechain plugin in JUCE and C++
