@@ -8,8 +8,6 @@
 - Scales App -> a app for musicians in React Native and Skia
 - SideChain -> a VST sidechain plugin in JUCE and C++
 
-🔍 I’m currently looking for backend or mobile roles
-
 📫 Connect with me [linkedin/sethclim](https://www.linkedin.com/in/sethclim/)
 <!--
 **sethclim/sethclim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
